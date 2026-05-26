@@ -1,4 +1,4 @@
-# 🌐 Rapport de Diagnostic Réseau
+#  Rapport de Diagnostic Réseau
 
 ---
 
@@ -91,7 +91,7 @@ Address: 140.82.114.4
 -  **DNS opérationnel** — les noms de domaine sont correctement résolus :
   - `google.com` → `142.250.69.78`
   - `github.com` → `140.82.114.4`
-- ℹ **Résolveur DNS local** utilisé : `127.0.0.53` (systemd-resolved)
+- **Résolveur DNS local** utilisé : `127.0.0.53` (systemd-resolved)
 
 ---
 
