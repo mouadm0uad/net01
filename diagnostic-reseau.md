@@ -35,14 +35,11 @@ rtt min/avg/max/mdev = 24.560/763.204/1552.854/588.622 ms, pipe 2
 ### Test 3 — Traceroute
 
 ```
-Command 'traceroute' not found, but can be installed with:
-  sudo apt install traceroute            # version 1:2.1.5-1
-  sudo apt install inetutils-traceroute  # version 2:2.5-3ubuntu4.1
+traceroute to google.com (64.233.178.102), 30 hops max, 60 byte packets
+ 1  _gateway (10.0.2.2)  2.379 ms  2.147 ms  1.968 ms
+
 ```
 
->  **traceroute** n'est pas installé sur cette machine.
-
----
 
 ### Test 4 — Résolution DNS de `google.com`
 
