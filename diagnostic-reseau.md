@@ -77,7 +77,7 @@ Address: 140.82.114.4
 |----------|------|
 | `ping` | Teste la connectivité réseau en envoyant des paquets ICMP vers une destination et mesure le temps de réponse (latence). |
 | `nslookup` *(tests 4 & 5)* | Interroge un serveur DNS pour obtenir l'adresse IP associée à un nom de domaine. |
-| `traceroute` *(test 3)* | Affiche le chemin parcouru par les paquets jusqu'à la destination — **non installé ici**. |
+| `traceroute` *(test 3)* | Affiche le chemin parcouru par les paquets jusqu'à la destination. |
 
 ---
 
